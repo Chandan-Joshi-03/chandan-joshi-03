@@ -38,7 +38,7 @@ I love exploring datasets, finding patterns, and building analytical solutions.
 📌 Order trends  
 📌 Product performance  
 
-👉 *(Add project link after uploading your SQL files)*  
+👉 *https://github.com/Chandan-Joshi-03/ecommerce-sql-analysis.git*  
 
 ---
 
