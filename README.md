@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **Chandan Joshi!**
 
 ### 🚀 Aspiring Data Analyst | SQL Enthusiast | Problem Solver  
-📍 Nainital, Uttarakhand  
+📍 Dwarahat, Uttarakhand  
 
 ---
 
